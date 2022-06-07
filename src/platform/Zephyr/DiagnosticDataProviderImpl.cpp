@@ -18,7 +18,7 @@
 /**
  *    @file
  *          Provides an implementation of the DiagnosticDataProvider object
- *          for Zephy platform.
+ *          for Zephyr platform.
  */
 
 #include <platform/internal/CHIPDeviceLayerInternal.h>
