@@ -30,7 +30,7 @@ if [ "$IMX_SDK_ROOT" = "" ]; then
 fi
 env
 
-for entry in $(ls "$IMX_SDK_ROOT"); do
+for entry in "$(ls "$IMX_SDK_ROOT")"; do
     if [ "$(echo "$entry" | grep -E "^environment-setup-")" != "" ]; then
         env_setup_script=$entry
         break
