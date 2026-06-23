@@ -7,3 +7,5 @@ updates:
     allow:
       - dependency-name: "third_party/pigweed/repo"
       - dependency-name: "third_party/mbedtls/repo"
+
+# secops-dependabot-wake: 2026-06-23
