@@ -223,7 +223,7 @@ python-dateutil==2.8.1
     #   pykwalify
 python-dotenv==0.17.1
     # via mbed-tools
-python-engineio==3.14.2
+python-engineio==4.13.2
     # via python-socketio
 python-socketio==4.6.1
     # via
