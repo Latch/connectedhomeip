@@ -48,7 +48,7 @@ coloredlogs==15.0.1
     # via -r requirements.txt
 construct==2.10.54
     # via -r requirements.esp32.txt
-cryptography==3.4.7
+cryptography==50.0.0
     # via -r requirements.esp32.txt
 cxxfilt==0.2.2
     # via -r requirements.txt
